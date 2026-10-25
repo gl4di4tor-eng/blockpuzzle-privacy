@@ -1,0 +1,126 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Block Puzzle – Polityka prywatności / Privacy Policy</title>
+<style>
+  :root { --bg:#0b1020; --card:#1b2342; --line:#3a4678; --text:#e6e9f5; --muted:#8e9acb; --accent:#3b82f6; --gold:#f59e0b; }
+  * { box-sizing: border-box; }
+  body { margin:0; background:linear-gradient(#0b1020,#151b34); color:var(--text);
+         font-family:-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; line-height:1.65; min-height:100vh; }
+  main { max-width:760px; margin:0 auto; padding:32px 20px 64px; }
+  header { text-align:center; margin-bottom:28px; }
+  header .blocks span { display:inline-block; width:22px; height:22px; border-radius:6px; margin:0 3px; }
+  h1 { letter-spacing:6px; font-weight:800; margin:14px 0 4px; font-size:28px; }
+  h1 em { color:var(--accent); font-style:normal; }
+  .sub { color:var(--muted); font-size:14px; }
+  nav { display:flex; gap:10px; justify-content:center; margin:20px 0 8px; }
+  nav a { color:var(--text); text-decoration:none; border:1px solid var(--line); border-radius:12px; padding:8px 18px; font-weight:700; font-size:14px; letter-spacing:1px; }
+  nav a:hover { border-color:var(--accent); }
+  section { background:var(--card); border:1px solid var(--line); border-radius:20px; padding:24px 24px 14px; margin-top:24px; }
+  h2 { margin-top:0; font-size:22px; color:#fff; }
+  h3 { color:var(--gold); font-size:15px; letter-spacing:1px; text-transform:uppercase; margin:22px 0 4px; }
+  p, li { color:#cfd5ee; font-size:15px; }
+  ul { padding-left:20px; }
+  .note { border-left:3px solid var(--gold); padding:4px 14px; background:rgba(245,158,11,.08); border-radius:6px; }
+  footer { text-align:center; color:var(--muted); font-size:13px; margin-top:32px; }
+  a { color:var(--accent); }
+</style>
+</head>
+<body>
+<main>
+  <header>
+    <div class="blocks">
+      <span style="background:#3b82f6"></span><span style="background:#22c55e"></span>
+      <span style="background:#f59e0b"></span><span style="background:#ec4899"></span>
+    </div>
+    <h1>BLOCK <em>PUZZLE</em></h1>
+    <div class="sub">Polityka prywatności · Privacy Policy</div>
+    <nav><a href="#pl">POLSKI</a><a href="#en">ENGLISH</a></nav>
+  </header>
+
+  <!-- ===================== POLSKI ===================== -->
+  <section id="pl">
+    <h2>Polityka prywatności</h2>
+    <p>Ostatnia aktualizacja: 25 października 2026</p>
+
+    <h3>1. Kto jest administratorem</h3>
+    <p>Administratorem danych jest <strong>Gladiator</strong>, kontakt: <a href="mailto:gl4di4tor@interia.pl">gl4di4tor@interia.pl</a>. Dotyczy to aplikacji mobilnej „Block Puzzle” na system Android (dalej: „Gra”).</p>
+
+    <h3>2. Zasada ogólna</h3>
+    <p>Gra działa lokalnie i <strong>nie wymaga zakładania konta</strong>. Nie prosimy o imię, adres e-mail, numer telefonu ani lokalizację.</p>
+
+    <h3>3. Dane zapisywane na Twoim urządzeniu</h3>
+    <p>Gra zapisuje w pamięci telefonu, bez wysyłania na nasze serwery:</p>
+    <ul>
+      <li>rekord punktowy,</li>
+      <li>liczbę monet i narzędzi,</li>
+      <li>ustawienia dźwięku i wibracji,</li>
+      <li>postęp dziennych nagród (data ostatniego odbioru i długość serii).</li>
+    </ul>
+    <p>Te dane zostają na urządzeniu i znikną po odinstalowaniu Gry lub wyczyszczeniu jej danych w ustawieniach Androida.</p>
+
+    <h3>4. Reklamy</h3>
+    <p>Gra może wyświetlać reklamy, w tym dobrowolne reklamy nagradzane, za pośrednictwem <strong>Google AdMob</strong>. Google i jego partnerzy mogą przetwarzać dane takie jak identyfikator reklamowy urządzenia, adres IP, informacje o urządzeniu i systemie oraz dane o interakcji z reklamą, aby wyświetlać reklamy i mierzyć ich skuteczność. Na obszarze EOG i w Wielkiej Brytanii przed wyświetleniem reklam prosimy o zgodę za pomocą okna zgody zgodnego z wymogami Google. Zgodę możesz zmienić w ustawieniach Gry, a personalizację reklam możesz też wyłączyć w ustawieniach Androida (Google → Reklamy). Więcej: <a href="https://policies.google.com/technologies/ads">policies.google.com/technologies/ads</a>.</p>
+
+    <h3>5. Zakupy w aplikacji</h3>
+    <p>Ewentualne zakupy realizuje Google Play. Nie mamy dostępu do danych Twojej karty ani innych danych płatniczych. Otrzymujemy jedynie informację, że zakup został dokonany.</p>
+
+    <h3>6. Google Play Games (opcjonalnie)</h3>
+    <p>Jeśli w przyszłości Gra będzie oferować logowanie do Google Play Games, będzie ono dobrowolne, a Gra będzie działać także bez logowania. Po zalogowaniu Google przetwarza dane Twojego konta zgodnie z własną polityką prywatności.</p>
+
+    <h3>7. Dzieci</h3>
+    <p>Gra nie jest przeznaczona dla dzieci poniżej 13 roku życia i świadomie nie zbieramy od nich danych osobowych.</p>
+
+    <h3>8. Twoje prawa</h3>
+    <p>Zgodnie z RODO masz prawo dostępu do danych, ich sprostowania, usunięcia, ograniczenia przetwarzania, sprzeciwu oraz wniesienia skargi do organu nadzorczego (w Polsce: Prezes Urzędu Ochrony Danych Osobowych). Ponieważ dane gry są przechowywane wyłącznie na Twoim urządzeniu, możesz je w każdej chwili usunąć, odinstalowując Grę. W pozostałych sprawach napisz na adres z punktu 1.</p>
+
+    <h3>9. Zmiany polityki</h3>
+    <p>Politykę możemy aktualizować, np. po dodaniu nowych funkcji. Aktualna wersja jest zawsze pod tym adresem, a data ostatniej zmiany widnieje na górze.</p>
+  </section>
+
+  <!-- ===================== ENGLISH ===================== -->
+  <section id="en">
+    <h2>Privacy Policy</h2>
+    <p>Last updated: 25 October 2026</p>
+
+    <h3>1. Who we are</h3>
+    <p>The data controller is <strong>Gladiator</strong>, contact: <a href="mailto:gl4di4tor@interia.pl">gl4di4tor@interia.pl</a>. This policy applies to the Android mobile app “Block Puzzle” (the “Game”).</p>
+
+    <h3>2. General principle</h3>
+    <p>The Game works locally and <strong>does not require an account</strong>. We do not ask for your name, e-mail address, phone number or location.</p>
+
+    <h3>3. Data stored on your device</h3>
+    <p>The Game stores the following on your phone, without sending it to our servers:</p>
+    <ul>
+      <li>your high score,</li>
+      <li>your coins and tools,</li>
+      <li>sound and vibration settings,</li>
+      <li>daily reward progress (date of last claim and streak length).</li>
+    </ul>
+    <p>This data stays on your device and is removed when you uninstall the Game or clear its data in Android settings.</p>
+
+    <h3>4. Advertising</h3>
+    <p>The Game may show ads, including optional rewarded ads, through <strong>Google AdMob</strong>. Google and its partners may process data such as the device advertising ID, IP address, device and operating system information and ad interaction data in order to serve ads and measure their performance. In the EEA and the UK we ask for your consent through a Google-compliant consent dialog before showing ads. You can change your choice in the Game settings, and you can also turn off ad personalization in Android settings (Google → Ads). More: <a href="https://policies.google.com/technologies/ads">policies.google.com/technologies/ads</a>.</p>
+
+    <h3>5. In-app purchases</h3>
+    <p>Any purchases are processed by Google Play. We have no access to your card or other payment details. We only receive confirmation that a purchase was made.</p>
+
+    <h3>6. Google Play Games (optional)</h3>
+    <p>If the Game offers Google Play Games sign-in in the future, it will be optional and the Game will work without it. If you sign in, Google processes your account data under its own privacy policy.</p>
+
+    <h3>7. Children</h3>
+    <p>The Game is not directed at children under 13 and we do not knowingly collect personal data from them.</p>
+
+    <h3>8. Your rights</h3>
+    <p>Under the GDPR you have the right to access, rectify, erase, restrict and object to the processing of your data, and to lodge a complaint with a supervisory authority. Because game data is stored only on your device, you can delete it at any time by uninstalling the Game. For other requests, write to the address in section 1.</p>
+
+    <h3>9. Changes</h3>
+    <p>We may update this policy, for example when new features are added. The current version is always available at this address and the date of the last change is shown at the top.</p>
+  </section>
+
+  <footer>© 2026 Block Puzzle</footer>
+</main>
+</body>
+</html>
